@@ -1,0 +1,9 @@
+codecarbon
+imgaug
+scikit-learn
+tensorflow
+visualkeras
+torch
+torchvision
+img2vec_pytorch
+scipy
